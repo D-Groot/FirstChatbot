@@ -63,11 +63,7 @@ GEMINI_API_KEY=your_api_key_here
 5. Run the app
 streamlit run app.py
 
-# Project Structure
-├── app.py            # Main Streamlit chatbot script
-├── requirements.txt  # Python dependencies
-├── .env.example      # Example environment file
-└── README.md         # Documentation
+
 
 # Tech Stack
 
